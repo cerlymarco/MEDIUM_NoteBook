@@ -1,1 +1,1 @@
-you can find the full article <b><a href='https://towardsdatascience.com/dynamic-meta-embeddings-in-keras-42393d246963'>here</a></b>
+you can find the full article <b><a href='https://towardsdatascience.com/predictive-maintenance-detect-faults-from-sensors-with-crnn-and-spectrograms-e1e4f8c2385d'>here</a></b>
