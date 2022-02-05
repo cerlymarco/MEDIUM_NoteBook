@@ -5,7 +5,6 @@ To be notified every time a new post is published, SUBSCRIBE [HERE](https://medi
 
 ## Posts ordered by most recently publishing date
 - Forecasting with Trees: Hybrid Modeling for Time Series [[post](https://medium.com/towards-data-science/forecasting-with-trees-hybrid-modeling-for-time-series-58590a113178)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/Hybrid_Trees_Forecasting)]
-
 - Recursive Feature Selection: Addition or Elimination? [[post](https://towardsdatascience.com/recursive-feature-selection-addition-or-elimination-755e5d86a791)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/Shap_RFA_RFE)]
 
 - Improve Random Forest with Linear Models [[post](https://towardsdatascience.com/improve-random-forest-with-linear-models-1fa789691e18)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/LinearForest)]
@@ -54,7 +53,7 @@ To be notified every time a new post is published, SUBSCRIBE [HERE](https://medi
 
 - Neural Networks Ensemble [[post](https://towardsdatascience.com/neural-networks-ensemble-33f33bea7df3)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/NeuralNet_Ensemble)]
 
-Anomaly Detection in Multivariate Time Series with VAR [[post](https://towardsdatascience.com/anomaly-detection-in-multivariate-time-series-with-var-2130f276e5e9)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/Anomaly_Detection_VAR)]
+- Anomaly Detection in Multivariate Time Series with VAR [[post](https://towardsdatascience.com/anomaly-detection-in-multivariate-time-series-with-var-2130f276e5e9)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/Anomaly_Detection_VAR)]
 
 - Corr2Vec: a WaveNet architecture for Feature Engineering in Financial Market [[post](https://towardsdatascience.com/corr2vec-a-wavenet-architecture-for-feature-engineering-in-financial-market-94b4f8279ba6)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/Corr2Vec_WaveNet)]
 
@@ -62,7 +61,7 @@ Anomaly Detection in Multivariate Time Series with VAR [[post](https://towardsda
 
 - Time Series Forecasting with Graph Convolutional Neural Network [[post](https://towardsdatascience.com/time-series-forecasting-with-graph-convolutional-neural-network-7ffb3b70afcf)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/Graph_TimeSeries_Forecasting)]
 
-- Neural Network Calibration with Keras [[post](https://towardsdatascience.com/neural-network-calibration-with-keras-76fb7c13a55)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/ NeuralNet_Calibration)]
+- Neural Network Calibration with Keras [[post](https://towardsdatascience.com/neural-network-calibration-with-keras-76fb7c13a55)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/NeuralNet_Calibration)]
 
 - Combine LSTM and VAR for Multivariate Time Series Forecasting [[post](https://towardsdatascience.com/combine-lstm-and-var-for-multivariate-time-series-forecasting-abdcb3c7939b)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/LSTM_VAR)]
 
