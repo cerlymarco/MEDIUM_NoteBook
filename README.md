@@ -4,6 +4,7 @@ Repository containing notebooks of my posts on [MEDIUM](https://medium.com/@cerl
 To be notified every time a new post is published, SUBSCRIBE [HERE](https://medium.com/subscribe/@cerlymarco).
 
 ## Posts ordered by most recently publishing date
+- Forecasting with Trees: Hybrid Classifiers for Time Series [[post](https://medium.com/towards-data-science/forecasting-with-trees-hybrid-classifiers-for-time-series-b2509abf15f8)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/Hybrid_Trees_Classifiers)]
 - Boruta SHAP for Temporal Feature Selection [[post](https://medium.com/towards-data-science/boruta-shap-for-temporal-feature-selection-96a7840c7713)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/ShapBoruta_TemporalSelection)]
 - Forecasting with Trees: Hybrid Modeling for Time Series [[post](https://medium.com/towards-data-science/forecasting-with-trees-hybrid-modeling-for-time-series-58590a113178)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/Hybrid_Trees_Forecasting)]
 - Recursive Feature Selection: Addition or Elimination? [[post](https://towardsdatascience.com/recursive-feature-selection-addition-or-elimination-755e5d86a791)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/Shap_RFA_RFE)]
