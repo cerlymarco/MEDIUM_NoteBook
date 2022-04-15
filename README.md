@@ -1,7 +1,7 @@
 # MEDIUM_NoteBook
 Repository containing notebooks of my posts on [MEDIUM](https://medium.com/@cerlymarco).
 
-To be notified every time a new post is published, SUBSCRIBE [HERE](https://medium.com/subscribe/@cerlymarco).
+To be notified every time a new post is published, **SUBSCRIBE [HERE](https://medium.com/subscribe/@cerlymarco)**.
 
 ## Posts ordered by most recently publishing date
 - Forecasting with Trees: Hybrid Classifiers for Time Series [[post](https://medium.com/towards-data-science/forecasting-with-trees-hybrid-classifiers-for-time-series-b2509abf15f8)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/Hybrid_Trees_Classifiers)]
