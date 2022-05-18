@@ -6,6 +6,7 @@ To be notified every time a new post is published, **SUBSCRIBE [HERE](https://me
 Do you enjoy my posts and appreciate my technical approach? **I CAN WRITE FOR YOU**: [I do reports, analyses and articles using machine learning](https://it.fiverr.com/share/775kKW) (service offered on Fiverr).
 
 ## Posts ordered by most recently publishing date
+- Word2Vec with Time Series: A Transfer Learning Approach [[post](https://medium.com/towards-data-science/word2vec-with-time-series-a-transfer-learning-approach-58017e7a019d)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/TimeSeries_Word2Vec)]
 - SHAP for Drift Detection: Effective Data Shift Monitoring [[post](https://medium.com/towards-data-science/shap-for-drift-detection-effective-data-shift-monitoring-c7fb9590adb0)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/Shap_Drift_Detector)]
 - Forecasting with Trees: Hybrid Classifiers for Time Series [[post](https://medium.com/towards-data-science/forecasting-with-trees-hybrid-classifiers-for-time-series-b2509abf15f8)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/Hybrid_Trees_Classifiers)]
 - Boruta SHAP for Temporal Feature Selection [[post](https://medium.com/towards-data-science/boruta-shap-for-temporal-feature-selection-96a7840c7713)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/ShapBoruta_TemporalSelection)]
