@@ -3,9 +3,8 @@ Repository containing notebooks of my posts on [MEDIUM](https://medium.com/@cerl
 
 To be notified every time a new post is published, **SUBSCRIBE [HERE](https://medium.com/subscribe/@cerlymarco)**.
 
-Do you enjoy my posts and appreciate my technical approach? **I CAN WRITE FOR YOU**: [I do reports, analyses and articles using machine learning](https://it.fiverr.com/share/775kKW) (service offered on Fiverr).
-
 ## Posts ordered by most recently publishing date
+- Anomaly Detection in Multivariate Time Series with Network Graphs [[post](https://medium.com/towards-data-science/anomaly-detection-in-multivariate-time-series-with-network-graphs-80a84deeed9e)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/Anomaly_Detection_Graph)]
 - How to Improve Recursive Time Series Forecasting [[post](https://medium.com/towards-data-science/how-to-improve-recursive-time-series-forecasting-ff5b90a98eeb)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/Improve_RecursiveForecasting)]
 - Retrain, or not Retrain? Online Machine Learning with Gradient Boosting [[post](https://medium.com/towards-data-science/retrain-or-not-retrain-online-machine-learning-with-gradient-boosting-9ccb464415e7)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/Refit_Online_Learning)]
 - Data Drift Explainability: Interpretable Shift Detection with NannyML [[post](https://medium.com/towards-data-science/data-drift-explainability-interpretable-shift-detection-with-nannyml-83421319d05f)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/NannyML_Drift_Detector)]
