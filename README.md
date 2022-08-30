@@ -6,6 +6,7 @@ To be notified every time a new post is published, **SUBSCRIBE [HERE](https://me
 If you appreciate my works, [buy me a coffee](https://www.buymeacoffee.com/cerlymarco).
 
 ## Posts ordered by most recently publishing date
+- Time Series Forecasting with Feature Selection: Why you may need it [[post](https://medium.com/towards-data-science/time-series-forecasting-with-feature-selection-why-you-may-need-it-696b23ecc329)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/TimeSeries_FeatureSelection)]
 - Anomaly Detection in Multivariate Time Series with Network Graphs [[post](https://medium.com/towards-data-science/anomaly-detection-in-multivariate-time-series-with-network-graphs-80a84deeed9e)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/Anomaly_Detection_Graph)]
 - How to Improve Recursive Time Series Forecasting [[post](https://medium.com/towards-data-science/how-to-improve-recursive-time-series-forecasting-ff5b90a98eeb)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/Improve_RecursiveForecasting)]
 - Retrain, or not Retrain? Online Machine Learning with Gradient Boosting [[post](https://medium.com/towards-data-science/retrain-or-not-retrain-online-machine-learning-with-gradient-boosting-9ccb464415e7)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/Refit_Online_Learning)]
