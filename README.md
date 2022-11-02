@@ -6,6 +6,7 @@ To be notified every time a new post is published, **SUBSCRIBE [HERE](https://me
 If you appreciate my works, [buy me a coffee](https://www.buymeacoffee.com/cerlymarco).
 
 ## Posts ordered by most recently publishing date
+- Extreme Churn Prediction: Forecasting Without Features [[post](https://medium.com/towards-data-science/extreme-churn-prediction-forecasting-without-features-8ebd4a8dc8b)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/Extreme_Churn_Prediction)]
 - Forecast Time Series with Missing Values: Beyond Linear Interpolation [[post](https://medium.com/towards-data-science/forecast-time-series-with-missing-values-beyond-linear-interpolation-2f2adf0a0cba)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/Timeseries_Missing_Forecasting)]
 - Forecasting Uncertainty with Linear Models like in Deep Learning [[post](https://medium.com/towards-data-science/forecasting-uncertainty-with-linear-models-like-in-deep-learning-bc58f53938)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/Forecast_Uncertainty_LinearModels)]
 - Time Series Forecasting with Feature Selection: Why you may need it [[post](https://medium.com/towards-data-science/time-series-forecasting-with-feature-selection-why-you-may-need-it-696b23ecc329)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/TimeSeries_FeatureSelection)]
