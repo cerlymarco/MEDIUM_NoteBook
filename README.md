@@ -6,6 +6,7 @@ To be notified every time a new post is published, **SUBSCRIBE [HERE](https://me
 If you appreciate my works, [buy me a coffee](https://www.buymeacoffee.com/cerlymarco).
 
 ## Posts ordered by most recently publishing date
+- Rethinking Survival Analysis: How to Make your Model Produce Survival Curves [[post](https://medium.com/towards-data-science/rethinking-survival-analysis-how-to-make-your-model-produce-survival-curves-7a9ef112e2af)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/SurvivalClassifier)]
 - Extreme Churn Prediction: Forecasting Without Features [[post](https://medium.com/towards-data-science/extreme-churn-prediction-forecasting-without-features-8ebd4a8dc8b)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/Extreme_Churn_Prediction)]
 - Forecast Time Series with Missing Values: Beyond Linear Interpolation [[post](https://medium.com/towards-data-science/forecast-time-series-with-missing-values-beyond-linear-interpolation-2f2adf0a0cba)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/Timeseries_Missing_Forecasting)]
 - Forecasting Uncertainty with Linear Models like in Deep Learning [[post](https://medium.com/towards-data-science/forecasting-uncertainty-with-linear-models-like-in-deep-learning-bc58f53938)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/Forecast_Uncertainty_LinearModels)]
