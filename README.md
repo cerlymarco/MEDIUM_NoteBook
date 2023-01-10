@@ -6,6 +6,7 @@ To be notified every time a new post is published, **SUBSCRIBE [HERE](https://me
 If you appreciate my works, [buy me a coffee](https://www.buymeacoffee.com/cerlymarco).
 
 ## Posts ordered by most recently publishing date
+- Hacking Statistical Significance: Hypothesis Testing with ML Approaches [[post](https://medium.com/towards-data-science/hacking-statistical-significance-hypothesis-testing-with-ml-approaches-74ff102c5ff1)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/Hacking_Statistical_Significance)]
 - Time Series Forecasting with Conformal Prediction Intervals: Scikit-Learn is All you Need [[post](https://medium.com/towards-data-science/time-series-forecasting-with-conformal-prediction-intervals-scikit-learn-is-all-you-need-4b68143a027a)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/TimeSeries_ConformalPredIntervals)]
 - Rethinking Survival Analysis: How to Make your Model Produce Survival Curves [[post](https://medium.com/towards-data-science/rethinking-survival-analysis-how-to-make-your-model-produce-survival-curves-7a9ef112e2af)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/SurvivalClassifier)]
 - Extreme Churn Prediction: Forecasting Without Features [[post](https://medium.com/towards-data-science/extreme-churn-prediction-forecasting-without-features-8ebd4a8dc8b)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/Extreme_Churn_Prediction)]
