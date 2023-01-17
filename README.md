@@ -3,7 +3,7 @@ Repository containing notebooks of my posts on [MEDIUM](https://medium.com/@cerl
 
 To be notified every time a new post is published, **SUBSCRIBE [HERE](https://medium.com/subscribe/@cerlymarco)**.
 
-If you appreciate my works, [buy me a coffee](https://www.buymeacoffee.com/cerlymarco).
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/cerlymarco)
 
 ## Posts ordered by most recently publishing date
 - Hacking Statistical Significance: Hypothesis Testing with ML Approaches [[post](https://medium.com/towards-data-science/hacking-statistical-significance-hypothesis-testing-with-ml-approaches-74ff102c5ff1)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/Hacking_Statistical_Significance)]
