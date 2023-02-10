@@ -1,17 +1,30 @@
-# MEDIUM_NoteBook
-Repository containing notebooks of my posts on [MEDIUM](https://medium.com/@cerlymarco).
-
-To be notified every time a new post is published, **SUBSCRIBE [HERE](https://medium.com/subscribe/@cerlymarco)**.
-
-<p align="center">
-<img width="726" alt="moon_image" src="https://user-images.githubusercontent.com/73865366/218138789-22c2e862-3bd7-411f-baf9-7bf273d9a118.png">
-</p>
+<h2 align="center">
+Marco Cerliani
+</h2> 
 
 <p align="center">
-<a href="https://www.buymeacoffee.com/cerlymarco" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"   width="150" alt="Buy Me A Coffee" /></a>           
-<a href="https://stackoverflow.com/users/10375049/marco-cerliani" target="_blank"><img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-official.svg" width="150" alt="Stack Overflow" /></a>
-<a href="https://www.linkedin.com/in/marco-cerliani-b0bba714b/?source=about_page-------------------------------------" target="_blank"><img src="https://logos-download.com/wp-content/uploads/2016/03/LinkedIn_Logo_2019.png" width="150" alt="LinkedIn" /></a>
+<img width="926"  alt="moon_image" src="https://user-images.githubusercontent.com/73865366/218138789-22c2e862-3bd7-411f-baf9-7bf273d9a118.png">
 </p>
+
+<h3 align="center">
+~ Repository containing notebooks of my posts on <a href="https://medium.com/@cerlymarco" target="_blank"><img src="https://user-images.githubusercontent.com/73865366/218152803-5f9895fa-3d69-40d7-9bf6-8f07f790cd1a.png" width="70" alt="Medium Profile" /></a> ~   
+</h3> 
+<br>
+<h3>
+About Me
+</h3>
+<h4 align="center">
+I am a statistician with a deep understanding of artificial intelligence and machine learning. I have devoted my career to the exploration and advancement of these fields, and my passion for statistical modeling and data analysis has driven me to pursue a role as a data scientist. In addition to my professional work, I also actively engage in writing and sharing my insights on Medium.com. My articles, which focus on a variety of topics related to artificial intelligence and machine learning, are available for view on my Github profile. These pieces are organized and ordered by their most recent publication date with Jupyter Notebook code attached, providing a clear and accessible resource for readers.
+</h4>
+
+<h3 align="center">
+<a href="https://www.buymeacoffee.com/cerlymarco" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"   width="120" alt="Buy Me A Coffee" /></a>           
+<a width="100" href="https://stackoverflow.com/users/10375049/marco-cerliani" target="_blank"><img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-official.svg" width="150" alt="Stack Overflow" /></a>
+<a href="https://www.linkedin.com/in/marco-cerliani-b0bba714b/?source=about_page-------------------------------------" target="_blank"><img src="https://logos-download.com/wp-content/uploads/2016/03/LinkedIn_Logo_2019.png" width="110" alt="LinkedIn" /></a>
+<img width="110" alt="Screen_Shot_2023-02-10_at_11 56 25_AM-removebg-preview" src="https://user-images.githubusercontent.com/73865366/218150696-ec1637a2-a42e-407c-ac8c-500153a071db.png" alt="Subscribe">
+</h3>
+
+<br>
 
 ## Posts ordered by most recently publishing date
 - PCA for Multivariate Time Series: Forecasting Dynamic High-Dimensional Data [[post](https://medium.com/towards-data-science/pca-for-multivariate-time-series-forecasting-dynamic-high-dimensional-data-ab050a19e8db)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/PCA_MultivariateForecasting)]
