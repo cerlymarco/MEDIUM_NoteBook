@@ -3,7 +3,15 @@ Repository containing notebooks of my posts on [MEDIUM](https://medium.com/@cerl
 
 To be notified every time a new post is published, **SUBSCRIBE [HERE](https://medium.com/subscribe/@cerlymarco)**.
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/cerlymarco)
+<p align="center">
+<img width="726" alt="moon_image" src="https://user-images.githubusercontent.com/73865366/218138789-22c2e862-3bd7-411f-baf9-7bf273d9a118.png">
+</p>
+
+<p align="center">
+<a href="https://www.buymeacoffee.com/cerlymarco" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"   width="150" alt="Buy Me A Coffee" /></a>           
+<a href="https://stackoverflow.com/users/10375049/marco-cerliani" target="_blank"><img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-official.svg" width="150" alt="Stack Overflow" /></a>
+<a href="https://www.linkedin.com/in/marco-cerliani-b0bba714b/?source=about_page-------------------------------------" target="_blank"><img src="https://logos-download.com/wp-content/uploads/2016/03/LinkedIn_Logo_2019.png" width="150" alt="LinkedIn" /></a>
+</p>
 
 ## Posts ordered by most recently publishing date
 - PCA for Multivariate Time Series: Forecasting Dynamic High-Dimensional Data [[post](https://medium.com/towards-data-science/pca-for-multivariate-time-series-forecasting-dynamic-high-dimensional-data-ab050a19e8db)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/PCA_MultivariateForecasting)]
