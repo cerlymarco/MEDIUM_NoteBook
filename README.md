@@ -1,23 +1,26 @@
 <h2 align="center">
-Marco Cerliani
+Author: Marco Cerliani
 </h2> 
 
 <p align="center">
 <img width="926"  alt="moon_image" src="https://user-images.githubusercontent.com/73865366/218138789-22c2e862-3bd7-411f-baf9-7bf273d9a118.png">
 </p>
 
-<h3 align="center">
-~ Repository containing notebooks of my posts on <a href="https://medium.com/@cerlymarco" target="_blank"><img src="https://user-images.githubusercontent.com/73865366/218152803-5f9895fa-3d69-40d7-9bf6-8f07f790cd1a.png" width="70" alt="Medium Profile" /></a> ~   
-</h3> 
-<br>
-<h3>
-About Me
-</h3>
-<h4 align="center">
-I am a statistician with a deep understanding of artificial intelligence and machine learning. I have devoted my career to the exploration and advancement of these fields, and my passion for statistical modeling and data analysis has driven me to pursue a role as a data scientist. In addition to my professional work, I also actively engage in writing and sharing my insights on Medium.com. My articles, which focus on a variety of topics related to artificial intelligence and machine learning, are available for view on my Github profile. These pieces are organized and ordered by their most recent publication date with Jupyter Notebook code attached, providing a clear and accessible resource for readers.
-</h4>
+<h2>
+Objective
+</h2> 
+<p>
+Arrange my <a href="https://medium.com/@cerlymarco" target="_blank"><img src="https://user-images.githubusercontent.com/73865366/218152803-5f9895fa-3d69-40d7-9bf6-8f07f790cd1a.png" width="70" alt="Medium Profile" /></a> posts and accompanying code in a clear and concise manner, enabling easy access for readers who may wish to reuse the code.
+</p> 
 
-<h3 align="center">
+<h2>
+About Me
+</h2>
+<p align="left">
+I am a statistician with a deep understanding of artificial intelligence and machine learning. I have devoted my career to the exploration and advancement of these fields, and my passion for statistical modeling and data analysis has driven me to pursue a role as a data scientist. In addition to my professional work, I also actively engage in writing and sharing my insights on Medium.com. My articles, which focus on a variety of topics related to artificial intelligence and machine learning, are available for view on my Github profile. These pieces are organized and ordered by their most recent publication date with Jupyter Notebook code attached, providing a clear and accessible resource for readers.
+</p>
+
+<h3 align="left">
 <a href="https://www.buymeacoffee.com/cerlymarco" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"   width="120" alt="Buy Me A Coffee" /></a>           
 <a width="100" href="https://stackoverflow.com/users/10375049/marco-cerliani" target="_blank"><img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-official.svg" width="150" alt="Stack Overflow" /></a>
 <a href="https://www.linkedin.com/in/marco-cerliani-b0bba714b/?source=about_page-------------------------------------" target="_blank"><img src="https://logos-download.com/wp-content/uploads/2016/03/LinkedIn_Logo_2019.png" width="110" alt="LinkedIn" /></a>
@@ -98,3 +101,41 @@ I am a statistician with a deep understanding of artificial intelligence and mac
 - Remaining Life Estimation with Keras [[post](https://towardsdatascience.com/remaining-life-estimation-with-keras-2334514f9c61)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/Remaining_Life_Estimation)]
 - Quality Control with Machine Learning [[post](https://towardsdatascience.com/quality-control-with-machine-learning-d7aab7382c1e)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/Quality_Control)]
 - Predictive Maintenance: detect Faults from Sensors with CNN [[post](https://towardsdatascience.com/predictive-maintenance-detect-faults-from-sensors-with-cnn-6c6172613371)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/Predictive_Maintenance)]
+
+<br>
+<h2> Installation </h2>
+<p>
+Setup and install Anaconda and Jupyter Notebook ~ alternatively Google Colab
+
+Download Anaconda from https://www.anaconda.com/products/distribution#Downloads selecting defaults
+<img width="400" alt="Screen Shot 2023-02-12 at 4 55 40 PM" src="https://user-images.githubusercontent.com/73865366/218339597-2e167696-bacf-4dd0-b76b-e40cfe561ea3.png">
+
+
+<h3>In Terminal</h3>
+
+Install Jupyter Notebook
+
+<img width="680" alt="Screen Shot 2023-02-12 at 4 54 27 PM" src="https://user-images.githubusercontent.com/73865366/218339528-ac37a7eb-ed97-4b97-b40f-00f3285ee952.png">
+
+Install pip package manager
+
+<img width="682" alt="Screen Shot 2023-02-12 at 4 56 59 PM" src="https://user-images.githubusercontent.com/73865366/218339664-aee7c629-1955-4b83-9d9c-c4c2500c717f.png">
+ 
+Create environment 
+
+Ex. env named tf-1.15, installing TensorFlow package version 1.15 in the ipykernel
+<img width="675" alt="Screen Shot 2023-02-12 at 4 58 20 PM" src="https://user-images.githubusercontent.com/73865366/218339747-03e74204-90c3-4f35-9841-3a238c5c6a4b.png">
+
+Type
+
+<img width="674" alt="Screen Shot 2023-02-12 at 5 00 18 PM" src="https://user-images.githubusercontent.com/73865366/218339849-9629724f-4c46-4e17-92fc-1a0dd5305862.png"> 
+to begin!
+
+
+<h4>Tip</h4>
+To install additional packages
+
+<strong>conda activate [current env]</strong><br>
+<strong>conda install [package]</strong>
+
+</p>
