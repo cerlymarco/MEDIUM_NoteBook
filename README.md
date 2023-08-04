@@ -5,7 +5,11 @@ To be notified every time a new post is published, **SUBSCRIBE [HERE](https://me
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/cerlymarco)
 
-## Posts ordered by most recently publishing date
+## Posts ordered by most recent publishing date
+- Hitting Time Forecasting: The Other Way for Time Series Probabilistic Forecasting [[post](https://medium.com/towards-data-science/hitting-time-forecasting-the-other-way-for-time-series-probabilistic-forecasting-6c3b6496c353)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/Hit_Time_Forecasting)]
+- Forecasting with Granger Causality: Checking for Time Series Spurious Correlations [[post](https://medium.com/towards-data-science/forecasting-with-granger-causality-checking-for-time-series-spurious-correlations-5faed62c3604)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/TimeSeries_GrangerCausality)]
+- Hacking Causal Inference: Synthetic Control with ML approaches [[post](https://medium.com/towards-data-science/hacking-causal-inference-synthetic-control-with-ml-approaches-7f3c19c7abfa)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/Hacking_Causal_Inference)]
+- Model Selection with Imbalance Data: Only AUC may Not Save you [[post](https://medium.com/towards-data-science/model-selection-with-imbalance-data-only-auc-may-not-save-you-5aed73c5efed)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/ImbalanceData_ModelSelection)]
 - PCA for Multivariate Time Series: Forecasting Dynamic High-Dimensional Data [[post](https://medium.com/towards-data-science/pca-for-multivariate-time-series-forecasting-dynamic-high-dimensional-data-ab050a19e8db)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/PCA_MultivariateForecasting)]
 - Hacking Statistical Significance: Hypothesis Testing with ML Approaches [[post](https://medium.com/towards-data-science/hacking-statistical-significance-hypothesis-testing-with-ml-approaches-74ff102c5ff1)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/Hacking_Statistical_Significance)]
 - Time Series Forecasting with Conformal Prediction Intervals: Scikit-Learn is All you Need [[post](https://medium.com/towards-data-science/time-series-forecasting-with-conformal-prediction-intervals-scikit-learn-is-all-you-need-4b68143a027a)]|[[code](https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/TimeSeries_ConformalPredIntervals)]
